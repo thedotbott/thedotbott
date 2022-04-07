@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thedotbott
 - 👀 I’m interested in learning how to use code to make cool stuff and building stuff in real life.
-- 🌱 I’m currently learning javascript, code art, and generative art.
-- 💞️ I’m looking to collaborate on code art, building awesome stuff!
+- 🌱 I’m currently learning javascript, creative coding, and generative art.
+- 💞️ I’m looking to collaborate on creative code/art, building awesome stuff!
 - 📫 How to reach me seth.bott@gmail.com
 
 <!---
